@@ -196,6 +196,11 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     WCNSS_wlan_dictionary.dat
 
+# simg2img hack?
+#PRODUCT_PACKAGES += \
+#    simg2img
+
+
 PRODUCT_PACKAGES += \
     libcurl \
     libqsap_sdk \
